@@ -42,7 +42,7 @@ p {
 
 /* MAIN HEADER */
 
-.header {
+#header {
 	width: auto;
 	height: 60px;
 	background-color: #02020c;
