@@ -9,7 +9,13 @@
     border: 1px solid black;
 }
 
+#schedule {
+    height: 500px;
+    border: 1px solid black;
+}
 #location div {
     display: inline-block;
     border: 1px solid black;
+    height: 300px;
+    vertical-align: top;
 }
